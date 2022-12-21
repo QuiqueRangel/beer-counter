@@ -1,13 +1,14 @@
-.body-width{
-    max-width: 250px;
-}
+
 body {
     background-image: url("beer.jpg");
     background-size: cover;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
     text-align: center;
-    height: 100px;
+    height: 100vh;
+}
+.body-width{
+    max-width: 80%;
 }
 
 h1 {
